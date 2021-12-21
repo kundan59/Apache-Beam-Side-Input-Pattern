@@ -1,0 +1,1 @@
+# Apache-Beam-Side-Input-Pattern
